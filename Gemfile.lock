@@ -185,7 +185,7 @@ DEPENDENCIES
   minitest
   rails (>= 6.0.2)
   rake
-  redis-namespace
+  redis-namespace (>= 1.8.0)
   sidekiq!
   simplecov
   sqlite3
